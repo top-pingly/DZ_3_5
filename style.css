@@ -5,3 +5,6 @@ body {
 	width: 960px;
 	margin: auto;
 }
+p {
+	font-size: 25px;
+}
